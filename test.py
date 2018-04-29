@@ -61,7 +61,6 @@ def find_min_max(*args):
             b=i
     return a,b
 find_min_max(4,2,5,2,3,6,3,3,2,3,4,12,4,3,2,534,2,3,54,3,6)
-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 #Step7
 def lower_upper_case(string, case=True):
