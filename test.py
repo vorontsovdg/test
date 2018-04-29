@@ -70,7 +70,6 @@ def lower_upper_case(string, case=True):
     else:
         return string.upper()
 lower_upper_case('Hello World!',False)
-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 #Step8
 def unit_string(glue=':', **kwargs,):
